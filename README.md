@@ -6,6 +6,12 @@ Using `emotion@11` to style the application rather than the defaults in the orig
 
 Also, includes Server side rendering.
 
+### Getting Started
+
+
+1. Start server `yarn run dev`  
+2. Visit http://localhost:3000  
+
 
 ### Reference
 
